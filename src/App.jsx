@@ -180,4 +180,4 @@ export default function App() {
 }
 
 
-// Assalomu alaykum ustoz agar bu vazifani korayotgan bolsangiz dialog qoshilgan bu dialog modal uchun kerak ekan emish.
+// Assalomu alaykum ustoz agar bu vazifani korayotgan bolsangiz dialog qoshilgan bu dialog modal uchun kerak ekan.
